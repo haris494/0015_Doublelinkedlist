@@ -207,4 +207,8 @@ void searchData()
     }
     else
     {
- 
+        cout << "Record found\n";
+        cout << "Roll Number: " << current->noMhs << endl;
+    }
+  }
+};
